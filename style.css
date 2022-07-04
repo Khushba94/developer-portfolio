@@ -12,6 +12,7 @@ button {
 }
 section {
   display: flex;
+  margin-bottom: 150px;
 }
 .about-info {
   width: 50%;
@@ -32,4 +33,9 @@ section {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
   margin: 0;
+}
+.dream-big {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
